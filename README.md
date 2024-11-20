@@ -43,7 +43,7 @@ Es la pantalla principal al acceder a su repositorio con el link enviado en form
 
 # 4. Guía de desarrollo
 1. Abre Github y crea un repositorio llamado *proyecto_integrado_3*
-2. Abre Claude.ai [[Pulsar aquí para abrir claude](https:claude.ai)]
+2. Abre Claude.ai [[Pulsar aquí para abrir claude](https://claude.ai/)]
    >
    * Solicita:
      ```txt
