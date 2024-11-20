@@ -20,6 +20,9 @@
 ### Archivo de Planilla de cálculo en Drive (presentación de como debería quedar)
 [[Control Cardio](https://docs.google.com/spreadsheets/d/1p5JAK6y49PDNff501R6WwR_6CnIJ27WFwF1ZOAEKWa0/edit?usp=sharing)]
 
+### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
+[[Presentaciones](https://app.presentations.ai/view/tpe1fm)]
+
 ---
 
 # 4. Guía de desarrollo
@@ -71,7 +74,15 @@
       * Pega los datos generados con Claude y arma una tabla.
       * Realiza calculos de DATOS DESCRIPTIVOS
       * Guarda el archivo con el nombre: **Datos de frecuencia cardíaca durante el trote**
-     
+
+   6. Realizar presentaciones en alternativa PowerPoint [[pulsa aquí para abrir]([https://presentations.ai](https://app.presentations.ai/)]
+      * Registrarse de manera sencilla.
+      * Utiliza el prompt y solicita:
+        ```txt
+        generar una presentacion sobre rutinas de ejercicios cardio para adultos de 40 años a mas, que no supere las 10 diapositivas. El objetivo es 
+        mostrar ejercicios sobre piernas, torax y brazos como respiración.
+        ```txt
+        
    6. Una vez realizado lo anterior, modifica el Readme en tu repositorio y quede de la siguiente forma:
       ```txt
       # Proyecto Integrador Nro 3 - Formato de pre-examen final
