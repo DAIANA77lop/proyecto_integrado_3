@@ -7,8 +7,10 @@
 
 ## Objetivos:
 - Utilizar la herramienta Claude.ai
-- Utilizar herramientas de google
+- Utilizar herramientas de google (Procesador de Texto, Planilla de cálculos)
 - Utilizar github como repositorio para proyectos
+- Utilizar herramientas de presentaciones (en esta ocasión presentations.ai)
+- Utilizar formulario de envío de examen.
 
 ## Estructura del poryecto (en google drive)
 - Plan Dieta Antiinflamatoria.docx
