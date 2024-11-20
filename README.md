@@ -77,7 +77,7 @@
       * Realiza calculos de DATOS DESCRIPTIVOS
       * Guarda el archivo con el nombre: **Datos de frecuencia cardíaca durante el trote**
 
-   6. Realizar presentaciones en alternativa PowerPoint [[pulsa aquí para abrir]([https://presentations.ai](https://app.presentations.ai/)]
+   6. Realizar presentaciones en alternativa PowerPoint [[pulsa aquí para abrir](https://app.presentations.ai/)]
       * Registrarse de manera sencilla.
       * Utiliza el prompt y solicita:
         ```txt
