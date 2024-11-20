@@ -1,4 +1,10 @@
 # Proyecto Integrador Nro 3 - Formato de pre-examen final
+**Para proyecto es necesario tener:**
+* abierto tu usuario de google,
+* abierto tu usuario en Claude.ai
+* abierto tu usuario de Github.com
+
+
 ## Objetivos:
 - Utilizar la herramienta Claude.ai
 - Utilizar herramientas de google
@@ -8,10 +14,10 @@
 - Plan Dieta Antiinflamatoria.docx
 - Datos de frecuencia cardíaca durante el trote.xls
   
-### Archivo de Procesador de texto en Drive
+### Archivo de Procesador de texto en Drive (presentación de como debería quedar)
 [[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1_X_JKExKltDC3xdipI_IypK0VHmSb-Khjy9LO3C8JOI/edit?usp=sharing)]
 
-### Archivo de Planilla de cálculo en Drive
+### Archivo de Planilla de cálculo en Drive (presentación de como debería quedar)
 [[Control Cardio](https://docs.google.com/spreadsheets/d/1p5JAK6y49PDNff501R6WwR_6CnIJ27WFwF1ZOAEKWa0/edit?usp=sharing)]
 
 ---
