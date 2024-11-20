@@ -25,7 +25,14 @@ Modelo de Examen Final Tipo 3
      ```txt
      como inserto este html en procesador de texto?
      ```
-    
+    >
+    > Esta parte es para que lo utilices con planilla de cálculo+
+    > solicita:
+    > ```txt
+    > Arma una tabla en planillas de cálculo de google que contenga el pulsos y latidos de corazón simulando un adulto de 40 años trotando desde hace 3 minutos y medidos cada 5 segundos.
+    > ```
+    >
+
    
   4. Abre el Procesador de texto de google [[pulsa aquí para abrir](https://docs.google.com/document/u/0/)]
    * Recuerda habilitar markdown dentro de preferencias 
