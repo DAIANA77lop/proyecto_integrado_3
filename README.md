@@ -7,6 +7,7 @@ Modelo de Examen Final Tipo 3
 # 4. Guía de desarrollo
 1. Abre Github y crea un repositorio llamado *proyecto_integrado_3*
 2. Abre Claude.ai [[Pulsar aquí para abrir claude](https:claude.ai)]
+   >
    * Solicita:
      ```txt
      generar un plan de dieta para la semana que contenga la descripcion del plato, un calendario semanal, sea balanceado a nivel semanal para reducir la inflamacion corporal por el estres, nivel de acohol y la dieta extrema en carbohidratos.
@@ -24,7 +25,9 @@ Modelo de Examen Final Tipo 3
      ```txt
      como inserto este html en procesador de texto?
      ```
-  3. Abre el Procesador de texto de google [[pulsa aquí para abrir](https://docs.google.com/document/u/0/)]
+    
+   
+  4. Abre el Procesador de texto de google [[pulsa aquí para abrir](https://docs.google.com/document/u/0/)]
    * Recuerda habilitar markdown dentro de preferencias 
    * una vez abierto debes generar los siguientes puntos para que el documento quede como la muestra indicada anteriormente:
      
@@ -37,3 +40,4 @@ Modelo de Examen Final Tipo 3
 
      c. Recuerda armar la tabla de contenido y la nota al pie.
 
+   4. Abre
