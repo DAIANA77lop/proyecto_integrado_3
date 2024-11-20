@@ -18,6 +18,7 @@
 
 _Lo que sigue, es un proyecto particular sobre un tema específico, y la forma de presentar y su armado, es el resultado de aplicar todo lo aprendido e integrado. 
 Es la pantalla principal al acceder a su repositorio con el link enviado en formularios._
+
 ---
 
 ## Plan de estabilización y desinflación corporal en adultos de 40+ años.
