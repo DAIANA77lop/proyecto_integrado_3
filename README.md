@@ -93,6 +93,11 @@
 
       ## Archivo de Planilla de cálculo en Drive
       [[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+
+      ## Presentacion desarrollada
+      [[Presentaciones](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+
+      
       ```
    7. Compartir del link del repositorio Github en formulario
      [[Formulario de Entrega](https://forms.gle/yUYKFXAUgXCgkVob9)]
