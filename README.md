@@ -12,14 +12,23 @@
 - Utilizar herramientas de presentaciones (en esta ocasión presentations.ai)
 - Utilizar formulario de envío de examen.
 
-## Estructura del poryecto (en google drive)
+## Estructura del proyecto (en google drive)
 - Plan Dieta Antiinflamatoria.docx
 - Datos de frecuencia cardíaca durante el trote.xls
-  
-### Archivo de Procesador de texto en Drive (presentación de como debería quedar)
+
+---
+
+## Plan de estabilización y desinflación corporal en adultos de 40+ años.
+
+* El plan incluye un cambio en la dieta, para un total de 12 semanas (3 meses), con diferentes platos y colaciones balanceado para reducir la inflamacion corporal por el estres, nivel de acohol y la dieta extrema en carbohidratos. Además, dispone de calendario semanal para sostener el proceso al cual será sometido.
+* Este plan debe estar acompañado por ayuda terapeutica o plan de soporte a la salud mental para sostener este plan.
+* El entrenamiento físico es requerido en esta fase y para ello se brinda unas presentaciones gráficas con visión completa de rutinas ejercicios cardiológicos.
+* Acompaña al plan, un sistema de control en los ejercicios físicos rutinarios a desarrollar, _verificando pulsaciones_.
+
+### Se adjunta el plan  con calendarioArchivo de Procesador de texto en Drive (presentación de como debería quedar)
 [[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1_X_JKExKltDC3xdipI_IypK0VHmSb-Khjy9LO3C8JOI/edit?usp=sharing)]
 
-### Archivo de Planilla de cálculo en Drive (presentación de como debería quedar)
+### Se adjunta una muestra de como llevar el control de pulsaciones (presentación de como debería quedar)
 [[Control Cardio](https://docs.google.com/spreadsheets/d/1p5JAK6y49PDNff501R6WwR_6CnIJ27WFwF1ZOAEKWa0/edit?usp=sharing)]
 
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
@@ -88,13 +97,14 @@
    6. Una vez realizado lo anterior, modifica el Readme en tu repositorio y quede de la siguiente forma:
       ```txt
       # Proyecto Integrador Nro 3 - Formato de pre-examen final
+      
       ## Archivo de Procesador de texto en Drive
          [[Plan Dieta Antiinflamatoria](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
       ## Archivo de Planilla de cálculo en Drive
       [[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
-      ## Presentacion desarrollada
+      ## Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
       [[Presentaciones](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
       
