@@ -1,8 +1,17 @@
-# proyecto_integrado_3
-Modelo de Examen Final Tipo 3
-## Archivo de Procesador de texto en Drive
+# Proyecto Integrador Nro 3 - Formato de pre-examen final
+## Objetivos:
+- Utilizar la herramienta Claude.ai
+- Utilizar herramientas de google
+- Utilizar github como repositorio para proyectos
+
+## Estructura del poryecto (en google drive)
+- Plan Dieta Antiinflamatoria.docx
+- Datos de frecuencia cardíaca durante el trote.xls
+  
+### Archivo de Procesador de texto en Drive
 [[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1_X_JKExKltDC3xdipI_IypK0VHmSb-Khjy9LO3C8JOI/edit?usp=sharing)]
-## Archivo de Planilla de cálculo en Drive
+
+### Archivo de Planilla de cálculo en Drive
 [[Control Cardio](https://docs.google.com/spreadsheets/d/1p5JAK6y49PDNff501R6WwR_6CnIJ27WFwF1ZOAEKWa0/edit?usp=sharing)]
 
 ---
@@ -57,4 +66,14 @@ Modelo de Examen Final Tipo 3
       * Realiza calculos de DATOS DESCRIPTIVOS
       * Guarda el archivo con el nombre: **Datos de frecuencia cardíaca durante el trote**
      
-   
+   6. Una vez realizado lo anterior, modifica el Readme en tu repositorio y quede de la siguiente forma:
+      ```txt
+      # Proyecto Integrador Nro 3 - Formato de pre-examen final
+      ### Archivo de Procesador de texto en Drive
+         [[Plan Dieta Antiinflamatoria](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+
+      ### Archivo de Planilla de cálculo en Drive
+      [[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+      ```
+   7. Compartir del link del repositorio Github en formulario
+     
