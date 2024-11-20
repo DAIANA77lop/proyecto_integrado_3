@@ -3,6 +3,9 @@ Modelo de Examen Final Tipo 3
 ## Archivo de Procesador de texto en Drive
 [[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1_X_JKExKltDC3xdipI_IypK0VHmSb-Khjy9LO3C8JOI/edit?usp=sharing)]
 ## Archivo de Planilla de cálculo en Drive
+[[Control Cardio](https://docs.google.com/spreadsheets/d/1p5JAK6y49PDNff501R6WwR_6CnIJ27WFwF1ZOAEKWa0/edit?usp=sharing)]
+
+---
 
 # 4. Guía de desarrollo
 1. Abre Github y crea un repositorio llamado *proyecto_integrado_3*
