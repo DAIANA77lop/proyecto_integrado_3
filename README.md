@@ -21,7 +21,7 @@ Modelo de Examen Final Tipo 3
      ```
    * si genera un html como portada, muchas veces puede no pegar correctamente, entonces puedes interactuar.
    * para interactuar y lograr otra portada:
-     ``txt
+     ```txt
      como inserto este html en procesador de texto?
      ```
   3. Abre el Procesador de texto de google [[pulsa aquí para abrir](https://docs.google.com/document/u/0/)]
