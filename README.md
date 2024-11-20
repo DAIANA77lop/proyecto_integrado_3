@@ -27,10 +27,13 @@ Modelo de Examen Final Tipo 3
   3. Abre el Procesador de texto de google [[pulsa aquí para abrir](https://docs.google.com/document/u/0/)]
    * Recuerda habilitar markdown dentro de preferencias 
    * una vez abierto debes generar los siguientes puntos para que el documento quede como la muestra indicada anteriormente:
+     
      a. Generar 3 secciones:
      - La primer sección es para la portada.
      - La segunda sección es para el cuerpo del documento.
      - La tercer sección es para el calendario con plan de dietas.
+     
      b. Recuerda colocar el encabezado y pie de pagina en los lugares indicados.
+
      c. Recuerda armar la tabla de contenido y la nota al pie.
 
