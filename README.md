@@ -69,11 +69,11 @@
    6. Una vez realizado lo anterior, modifica el Readme en tu repositorio y quede de la siguiente forma:
       ```txt
       # Proyecto Integrador Nro 3 - Formato de pre-examen final
-      ### Archivo de Procesador de texto en Drive
+      ## Archivo de Procesador de texto en Drive
          [[Plan Dieta Antiinflamatoria](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
-      ### Archivo de Planilla de cálculo en Drive
+      ## Archivo de Planilla de cálculo en Drive
       [[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
       ```
    7. Compartir del link del repositorio Github en formulario
-     
+     [[Formulario de Entrega](https://forms.gle/yUYKFXAUgXCgkVob9)]
