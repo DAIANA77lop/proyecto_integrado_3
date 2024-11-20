@@ -26,8 +26,8 @@ Modelo de Examen Final Tipo 3
      como inserto este html en procesador de texto?
      ```
     >
-    > Esta parte es para que lo utilices con planilla de cálculo+
-    > solicita:
+    > Esta parte es para que lo utilices con planilla de cálculo
+    > solicita a claude:
     > ```txt
     > Arma una tabla en planillas de cálculo de google que contenga el pulsos y latidos de corazón simulando un adulto de 40 años trotando desde hace 3 minutos y medidos cada 5 segundos.
     > ```
@@ -47,4 +47,11 @@ Modelo de Examen Final Tipo 3
 
      c. Recuerda armar la tabla de contenido y la nota al pie.
 
-   4. Abre
+     d. Guarda el documento con el nombre de: **Plan de Dieta Antiinflamatoria Semanal**
+
+   5. Abre la planilla de cálculo de google [[pulsa aquí para abrir](https://docs.google.com/spreadsheets/u/0/)]
+      * Pega los datos generados con Claude y arma una tabla.
+      * Realiza calculos de DATOS DESCRIPTIVOS
+      * Guarda el archivo con el nombre: **Datos de frecuencia cardíaca durante el trote**
+     
+   
